@@ -1,0 +1,7 @@
+{
+  "buildCommand": "python scripts/main.py && npm run build",
+  "outputDirectory": "out",
+  "installCommand": "npm install && pip install -r requirements.txt",
+  "framework": "nextjs",
+  "regions": ["hnd1"]
+}
