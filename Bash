@@ -1,8 +1,0 @@
-git init
-2.  **ファイルをステージング**: すべてのファイルを追跡対象に追加します。
-```bash
-git add .
-3.  **コミット**: 変更を履歴として保存します。
-```bash
-git commit -m "feat: Initial commit for AutoTune Reviewer project structure"
-4.  **GitHubリポジトリの作成**: GitHubのウェブサイトで新しい空のリポジトリを作成します。
